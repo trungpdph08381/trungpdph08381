@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @trungpdph08381
+- 👀 I’m a bad programmer
+- 🌱 I’m currently learning java for backend and boostrap for fontend
+- 💞️ I’m looking to collaborate on Bibo
+- 📫 How to reach me with 0387608526
